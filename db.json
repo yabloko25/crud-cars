@@ -1,0 +1,110 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Malibu",
+        "price": 25000,
+        "model": "LTZ",
+        "year": 2022
+      },
+      {
+        "id": 2,
+        "name": "Cobalt",
+        "price": 12000,
+        "model": "LUX",
+        "year": 2021
+      },
+      {
+        "id": 3,
+        "name": "Lacetti",
+        "price": 15000,
+        "model": "Premier",
+        "year": 2020
+      },
+      {
+        "id": 4,
+        "name": "Nexia 3",
+        "price": 10000,
+        "model": "Basic",
+        "year": 2019
+      },
+      {
+        "id": 5,
+        "name": "Damas",
+        "price": 8000,
+        "model": "Van",
+        "year": 2023
+      },
+      {
+        "id": 6,
+        "name": "Spark",
+        "price": 9500,
+        "model": "LT",
+        "year": 2020
+      },
+      {
+        "id": 7,
+        "name": "Tahoe",
+        "price": 60000,
+        "model": "Premier",
+        "year": 2023
+      },
+      {
+        "id": 8,
+        "name": "Tracker",
+        "price": 28000,
+        "model": "LTZ",
+        "year": 2021
+      },
+      {
+        "id": 9,
+        "name": "Equinox",
+        "price": 32000,
+        "model": "RS",
+        "year": 2022
+      },
+      {
+        "id": 10,
+        "name": "Traverse",
+        "price": 45000,
+        "model": "High Country",
+        "year": 2023
+      },
+      {
+        "id": 11,
+        "name": "Onix",
+        "price": 18000,
+        "model": "LT",
+        "year": 2023
+      },
+      {
+        "id": 12,
+        "name": "Captiva",
+        "price": 30000,
+        "model": "Premier",
+        "year": 2022
+      },
+      {
+        "id": 13,
+        "name": "Epica",
+        "price": 17000,
+        "model": "Classic",
+        "year": 2018
+      },
+      {
+        "id": 14,
+        "name": "Matiz",
+        "price": 7000,
+        "model": "Best",
+        "year": 2017
+      },
+      {
+        "id": 15,
+        "name": "Orlando",
+        "price": 23000,
+        "model": "Family",
+        "year": 2021
+      }
+    ]
+  }
+  
